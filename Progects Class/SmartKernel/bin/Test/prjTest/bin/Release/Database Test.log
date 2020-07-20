@@ -1,0 +1,8 @@
+12/02/2009 22:35:26 at clsDBConnection::Execute Error converting data type varchar to numeric.
+Additional Info:SQL statment:Insert into tblTest5555  (ID) VALUES ('jsjdfshajfdhsjfhsdjhfsdjhfdj')
+12/02/2009 22:41:58 at clsDBConnection::Execute Error converting data type varchar to numeric.
+Additional Info:SQL statment:Insert into tblTest5555  (ID) VALUES ('jjjj')
+12/02/2009 22:48:44 at clsDBConnection::Execute Error converting data type varchar to numeric.
+Additional Info:SQL statment:Insert into tblTest5555  (ID) VALUES ('555dgdf')
+18/02/2009 11:56:32 at clsDBConnection::Execute Error converting data type varchar to numeric.
+Additional Info:SQL statment:Insert into tblTest5555  (ID) VALUES ('555dgdf')

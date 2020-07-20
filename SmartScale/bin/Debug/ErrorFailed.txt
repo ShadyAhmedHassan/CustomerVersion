@@ -1,0 +1,477 @@
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+ The SQL Query1 = update tblCar set CarBoard_No='123' where  Car_ID='0'
+
+ The SQL Query1 = update tblCar set CarBoard_No='1234' where  Car_ID='0'
+
+ The SQL Query3 = update tblCar set CarBoard_No='66666666666666666666' where Car_ID= '0'
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+ The SQL Query3 = set dateformat dmy Update tblReturns Set  First_Weigth=96523,Driver_ID =2954 ,Dealer_ID = 200105 ,Issue_To_ID =77 ,Good_ID='105105',Second_Weight_User_ID=1,Second_Weight_Scale_ID=1,Car_Info_ID=1380,Slip_Rate=0,Slip_Charged_Date='22/05/2013',Slip_Charged_User_ID=1 Where  TR_TY=2 and  Trans_ID=6
+
+ The SQL Query3 = set dateformat dmy Update tblReturns Set  First_Weigth=96523,Driver_ID =2954 ,Dealer_ID = 200105 ,Issue_To_ID =77 ,Good_ID='105105',Second_Weight_User_ID=1,Second_Weight_Scale_ID=1,Car_Info_ID=1380,Slip_Rate=0,Slip_Charged_Date='23/05/2013',Slip_Charged_User_ID=1 Where  TR_TY=2 and  Trans_ID=6
+
+ The SQL Query3 = set dateformat dmy Update tblReturns Set  First_Weigth=96523,Driver_ID =2954 ,Dealer_ID = 200105 ,Issue_To_ID =77 ,Good_ID='105105',Second_Weight_User_ID=1,Second_Weight_Scale_ID=1,Car_Info_ID=1380,Slip_Rate=10,Slip_Charged_Date='23/05/2013',Slip_Charged_User_ID=1 Where  TR_TY=2 and  Trans_ID=6
+
+ The SQL Query3 = set dateformat dmy Update tblReturns Set  First_Weigth=96523,Driver_ID =2954 ,Dealer_ID = 200105 ,Issue_To_ID =77 ,Good_ID='105105',Second_Weight_User_ID=1,Second_Weight_Scale_ID=1,Car_Info_ID=1380,Slip_Rate=15,Slip_Charged_Date='23/05/2013',Slip_Charged_User_ID=1 Where  TR_TY=2 and  Trans_ID=7
+
+ The SQL Query3 = set dateformat dmy Update tblReturns Set  First_Weigth=96523,Driver_ID =2954 ,Dealer_ID = 200105 ,Issue_To_ID =77 ,Good_ID='105105',Second_Weight_User_ID=1,Second_Weight_Scale_ID=1,Car_Info_ID=1380,Slip_Rate=15,Slip_Charged_Date='23/05/2013',Slip_Charged_User_ID=1 Where  TR_TY=2 and  Trans_ID=7
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+ The SQL Query3 = set dateformat dmy Update tblReturns Set  First_Weigth=96523,Driver_ID =2954 ,Dealer_ID = 200105 ,Issue_To_ID =77 ,Good_ID='105105',Second_Weight_User_ID=1,Second_Weight_Scale_ID=1,Car_Info_ID=1380,Slip_Rate=0,Slip_Charged_Date='23/05/2013',Slip_Charged_User_ID=1 Where  TR_TY=2 and  Trans_ID=9
+
+Object reference not set to an instance of an object.
+
+ The SQL Query3 = set dateformat dmy Update tblReturns Set Out_Date = '25/08/2013 04:46:41 PM',Second_Weight=54789,first_weight_user_ID=4,Driver_ID =2961 ,Dealer_ID = 200105 ,Issue_To_ID =77 ,Good_ID='105105',Second_Weight_User_ID=1,Second_Weight_Scale_ID=1,Car_Info_ID=1382,Slip_Rate=0,Slip_Charged_Date='25/08/2013',Slip_Charged_User_ID=1 Where  TR_TY=2 and  Trans_ID=0
+
+ The SQL Query1 = update tblTransactions set Car_ID=1926 ,Dealer_ID= 102 ,Car_Info_ID=1384,Issue_To_ID= 77 ,Driver_ID= 2958 ,Second_Weight=54789 ,Good_ID='105105' ,Slip_Rate=10 ,First_Weight_User_ID='1'  where TR_TY=2 and  Trans_ID=2 and First_Weigth_Scale_ID=1
+
+ The SQL Query1 = update tblTransactions set Car_ID=1926 ,Dealer_ID= 102 ,Car_Info_ID=1384,Issue_To_ID= 77 ,Driver_ID= 2958 ,Second_Weight=54789 ,Good_ID='105105' ,Slip_Rate=10 ,First_Weight_User_ID='1'  where TR_TY=2 and  Trans_ID=2 and First_Weigth_Scale_ID=1
+
+ The SQL Query1 = update tblTransactions set Car_ID=1926 ,Dealer_ID= 102 ,Car_Info_ID=1384,Issue_To_ID= 77 ,Driver_ID= 2958 ,Second_Weight=54789 ,Good_ID='105105' ,Slip_Rate=10 ,First_Weight_User_ID='4'  where TR_TY=2 and  Trans_ID=2 and First_Weigth_Scale_ID=1
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Object reference not set to an instance of an object.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Object reference not set to an instance of an object.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+ The SQL Query3 = set dateformat dmy Update tblReturns Set Out_Date = '08/01/2014 01:26:37 PM',Second_Weight=54789,Car_ID='1975',Driver_ID =2964 ,Dealer_ID = 7 ,Issue_To_ID =82 ,Good_ID='201201',Second_Weight_User_ID=4,Second_Weight_Scale_ID=1,MSGID=1,Car_Info_ID=1380,Slip_Rate=15,Slip_Charged_Date='08/01/2014',Slip_Charged_User_ID=4 Where  TR_TY=2 and  Trans_ID=6
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+ The SQL Query3 = set dateformat dmy Update tblReturns Set Out_Date = '08/01/2014 04:39:45 PM',Second_Weight=54789,Car_ID='1977',Driver_ID =2964 ,Dealer_ID = 3 ,Issue_To_ID =77 ,Good_ID='201201',Second_Weight_User_ID=3,Second_Weight_Scale_ID=1,MSGID=2,Car_Info_ID=1400,Slip_Rate=10,Slip_Charged_Date='08/01/2014',Slip_Charged_User_ID=3 Where  TR_TY=2 and  Trans_ID=7
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+ The SQL Query1 = update tblTransactions set out_date ='13/12/2014 02:02:00 PM' where TR_TY=1 and CID=11562 and First_Weigth_Scale_ID=1
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Object reference not set to an instance of an object.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+ The SQL Query1 = update tblTransactions set out_date ='09/09/2015 08:49:00 AM' where TR_TY=2 and CID=4087 and First_Weigth_Scale_ID=3
+
+ The SQL Query1 = update tblTransactions set out_date ='09/09/2015 08:49:00 AM' where TR_TY=2 and CID=4087 and First_Weigth_Scale_ID=3
+
+ The SQL Query1 = update tblTransactions set Car_ID=1953 ,Dealer_ID= 12203 ,Car_Info_ID=132,Issue_To_ID= 68 ,Driver_ID= 2941 ,Second_Weight=0 ,Good_ID='1023' ,Slip_Rate=0 ,MSGID='4'  where TR_TY=2 and  CID=4087 and First_Weigth_Scale_ID=3
+
+ The SQL Query1 = update tblTransactions set Car_ID=1953 ,Dealer_ID= 12203 ,Car_Info_ID=132,Issue_To_ID= 68 ,Driver_ID= 2941 ,Second_Weight=0 ,Good_ID='1023' ,Slip_Rate=0 ,MSGID='4'  where TR_TY=2 and  CID=4087 and First_Weigth_Scale_ID=3
+
+ The SQL Query1 = update tblTransactions set Car_ID=1953 ,Dealer_ID= 12203 ,Car_Info_ID=132,Issue_To_ID= 68 ,Driver_ID= 2941 ,Second_Weight=0 ,Good_ID='1023' ,Slip_Rate=0 ,MSGID='4'  where TR_TY=2 and  CID=4087 and First_Weigth_Scale_ID=3
+
+ The SQL Query1 = update tblTransactions set Car_ID=1953 ,Dealer_ID= 12203 ,Car_Info_ID=132,Issue_To_ID= 68 ,Driver_ID= 2941 ,Second_Weight=0 ,Good_ID='1023' ,Slip_Rate=0 ,MSGID='4'  where TR_TY=2 and  CID=4087 and First_Weigth_Scale_ID=3
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+ The SQL Query3 = set dateformat dmy Update tblTransactions Set  First_Weigth=0,CustomWeight='0',Car_ID='9547',Driver_ID =13118 ,Dealer_ID = 1229 ,Issue_To_ID =165 ,Good_ID='0111',First_Weight_User_ID=2,Second_Weight_Scale_ID=2,Car_Info_ID=1,MSGID=2,Slip_Rate=0,Slip_Charged_Date='28/08/2017',Contractor_ID=1,Slip_Charged_User_ID=0 Where  TR_TY=2 and  CID=12474
+
+ The SQL Query3 = set dateformat dmy Update tblTransactions Set  First_Weigth=0,CustomWeight='0',Car_ID='9547',Driver_ID =13118 ,Dealer_ID = 1229 ,Issue_To_ID =165 ,Good_ID='0111',First_Weight_User_ID=2,Second_Weight_Scale_ID=2,Car_Info_ID=1,MSGID=2,Slip_Rate=0,Slip_Charged_Date='28/08/2017',Contractor_ID=1,Slip_Charged_User_ID=0 Where  TR_TY=2 and  CID=12474
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+Conversion from type 'DBNull' to type 'Integer' is not valid.
+
+ The SQL Query3 = set dateformat dmy Update tblTransactions Set Out_Date = '27/02/2019 03:33:23 PM',Second_Weight=14300,First_Weigth=4270,Contractor_ID=2,CustomWeight=0,Car_ID='42',Driver_ID =37 ,Dealer_ID = 17113 ,Issue_To_ID =4 ,Good_ID='0718',Second_Weight_User_ID=38,Second_Weight_Scale_ID=3,MSGID=4,Car_Info_ID=1,Slip_Rate=10,Slip_Charged_Date='27/02/2019',Slip_Charged_User_ID=0 Where  TR_TY=2 and  CID=1661
+
+ The SQL Query3 = set dateformat dmy Update tblTransactions Set Out_Date = '27/02/2019 03:34:15 PM',Second_Weight=14300,First_Weigth=4270,Contractor_ID=2,CustomWeight=0,Car_ID='42',Driver_ID =37 ,Dealer_ID = 17113 ,Issue_To_ID =4 ,Good_ID='0718',Second_Weight_User_ID=38,Second_Weight_Scale_ID=3,MSGID=4,Car_Info_ID=1,Slip_Rate=10,Slip_Charged_Date='27/02/2019',Slip_Charged_User_ID=0 Where  TR_TY=2 and  CID=1661
+
+ The SQL Query3 = set dateformat dmy Update tblTransactions Set Out_Date = '27/02/2019 03:36:09 PM',Second_Weight=14300,First_Weigth=4270,Contractor_ID=2,CustomWeight=0,Car_ID='42',Driver_ID =37 ,Dealer_ID = 17113 ,Issue_To_ID =4 ,Good_ID='0718',Second_Weight_User_ID=38,Second_Weight_Scale_ID=3,MSGID=4,Car_Info_ID=1,Slip_Rate=10,Slip_Charged_Date='27/02/2019',Slip_Charged_User_ID=0 Where  TR_TY=2 and  CID=1661
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (4).
+The statement has been terminated.
+
+ The SQL Query3 = set dateformat dmy Update tblTransactions Set Out_Date = '18/12/2019 11:04:23 AM',Second_Weight=96523,First_Weigth=54789,Contractor_ID=2,CustomWeight=0,Car_ID='2416',Driver_ID =1724 ,Dealer_ID = 17170 ,Issue_To_ID =31 ,Good_ID='0711',Second_Weight_User_ID=2,Second_Weight_Scale_ID=4,MSGID=1,Car_Info_ID=1499,Slip_Rate=10,Slip_Charged_Date='18/12/2019',Slip_Charged_User_ID=0 Where  TR_TY=2 and  CID=4
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (5).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (2).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (1).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (6).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (7).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (8).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (9).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (10).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (12).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (13).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11617).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11618).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11619).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11622).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11623).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11624).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11626).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11636).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11648).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (11650).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (12649).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (12652).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (13650).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (13651).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (13654).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (13655).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (13662).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14657).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14659).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14661).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14664).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14665).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14666).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14669).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14672).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14673).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14676).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14678).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14679).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14680).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14682).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14683).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14685).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14689).
+The statement has been terminated.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14693).
+The statement has been terminated.
+
+ The SQL Query1 = delete tblProtype where ProtypeID=329
+
+ The SQL Query1 = delete tblProtype where ProtypeID=329
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14699).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14700).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14701).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14702).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14703).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14704).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14712).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14713).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14714).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14715).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (14716).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15712).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15713).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15721).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15723).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15724).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15725).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15726).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15727).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15730).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'. The duplicate key value is (15732).
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Object reference not set to an instance of an object.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.
+
+Violation of PRIMARY KEY constraint 'PK_tblFailedTransactions'. Cannot insert duplicate key in object 'dbo.tblFailedTransactions'.
+The statement has been terminated.

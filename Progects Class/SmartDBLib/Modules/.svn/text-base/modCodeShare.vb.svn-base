@@ -1,0 +1,4 @@
+﻿Module modCodeShare
+    Public glogLogFile As Kernel.clsLogFile
+
+End Module

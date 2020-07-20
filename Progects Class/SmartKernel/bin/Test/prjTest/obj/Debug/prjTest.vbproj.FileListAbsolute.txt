@@ -1,0 +1,16 @@
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\bin\Debug\prjTest.exe
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\bin\Debug\prjTest.pdb
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\bin\Debug\prjTest.xml
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\bin\Debug\DBLib.dll
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\bin\Debug\Kernel.dll
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\bin\Debug\DBLib.pdb
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\bin\Debug\DBLib.xml
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\bin\Debug\Kernel.pdb
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\bin\Debug\Kernel.xml
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\obj\Debug\prjTest.Form1.resources
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\obj\Debug\prjTest.Resources.resources
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\obj\Debug\prjTest.vbproj.GenerateResource.Cache
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\obj\Debug\prjTest.exe
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\obj\Debug\prjTest.xml
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\prjTest\obj\Debug\prjTest.pdb

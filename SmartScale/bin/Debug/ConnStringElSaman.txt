@@ -1,0 +1,3 @@
+Data Source=.\MSSQLSERVER2;Initial Catalog=MultiSeeds2019;User ID=it;Password=123
+
+Data Source=DESKTOP-N4E9IM3\SQL2014;Initial Catalog=MultiSeeds2019;User ID=it;Password=123

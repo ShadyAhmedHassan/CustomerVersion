@@ -1,0 +1,14 @@
+set dateformat dmy SELECT T.Trans_ID,G.Good_Name,C.CarBoard_No,CI.TruckBoard_No 
+ ,T.First_Weigth,T.First_Weight_IsEmpty ,T.Second_Weight,T.Second_Weight_IsEmpty,
+ CONVERT(varchar(2), CASE
+WHEN DATEPART([hour], T.In_Shift_Date ) > 12 THEN CONVERT(varchar(2), (DATEPART([hour],T.In_Shift_Date) - 12)) 
+ WHEN DATEPART([hour],  T.In_Shift_Date) = 0 THEN '12' 
+ELSE CONVERT(varchar(2), DATEPART([hour], T.In_Shift_Date ))  End) + ':' + 
+ CONVERT(char(2), SUBSTRING(CONVERT(char(5), T.In_Shift_Date , 108), 4, 2)) + ' ' +
+CONVERT(varchar(2), CASE 
+ WHEN DATEPART([hour], T.In_Shift_Date ) > 12 THEN 'PM' ELSE 'AM' End  ) AS [Time] 
+ FROM tblTransactions as T join tblGood as G on T.Good_ID =G.Good_ID 
+join tblCarInfo as CI on CI.Car_Info_ID=T.Car_Info_ID 
+join tblCar as C on C.Car_ID =T.Car_ID  
+
+ where convert (datetime,T.In_Shift_Date) between '17/08/2010 08:00:00 AM' and '18/08/2010 07:59:59 AM' 

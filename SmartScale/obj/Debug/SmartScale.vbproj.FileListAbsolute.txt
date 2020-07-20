@@ -1,0 +1,1215 @@
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+G:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+G:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+G:\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\P R O J E C T S\A L E X    S E E D S\الجديد DBLIB نسخه التعديل مع\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\S H A R E\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\P R O J E C T S\A L E X    S E E D S\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\AS\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\AS\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\AS\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\AS\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\AS\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\AS\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\AS\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\AS\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\AS\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\AS\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\P R O J E C T S\A L E X    S E E D S\A S\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\smart scale 24-05-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\P R O J E C T S\A L E X    S E E D S\smart scale 30-06-2011\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+F:\تسليم ثروت لبرنامج الميزان\برنامج الميزان\إسكندرية للبذور\Solutions\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+J:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+I:\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\Bakup\إسكندرية للبذور\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+G:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+G:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+G:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+G:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+G:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+G:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+G:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+G:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+G:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+G:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\Bakup\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+\\Eng_ahmed\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+\\Eng_ahmed\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+\\Eng_ahmed\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+C:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+C:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+C:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+C:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+C:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+C:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+C:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+C:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+C:\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+C:\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+F:\C\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+F:\C\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+F:\C\الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+F:\C\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+F:\C\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+F:\C\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+F:\C\الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+F:\C\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+F:\C\الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+F:\C\الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\21-07-2013\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+E:\21-07-2013\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+E:\21-07-2013\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+E:\21-07-2013\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+E:\21-07-2013\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+E:\21-07-2013\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+E:\21-07-2013\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+E:\21-07-2013\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+E:\21-07-2013\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+E:\21-07-2013\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+E:\15-06-2014\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+E:\15-06-2014\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+E:\15-06-2014\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+E:\15-06-2014\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+E:\15-06-2014\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+E:\15-06-2014\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+E:\15-06-2014\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+E:\15-06-2014\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+E:\15-06-2014\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+E:\15-06-2014\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+F:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+H:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+G:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+L:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+G:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+E:\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptQuota.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptQuota.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\Projects\Alex IT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptQuota.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.exe
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.pdb
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\SmartScale.xml
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\DBLib.dll
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\Kernel.dll
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\Kernel.pdb
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\Kernel.xml
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\DBLib.pdb
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\bin\Debug\DBLib.xml
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptQuota.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Reports.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.frmUpDatedTransactions.resources
+H:\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.exe
+H:\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.xml
+H:\CUSTOMER Version\SmartScale\obj\Debug\SmartScale.pdb
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.exe
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.xml
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.pdb
+E:\برنامج الميزان\CustomerVersion\SmartScale\bin\Debug\SmartScale.exe
+E:\برنامج الميزان\CustomerVersion\SmartScale\bin\Debug\SmartScale.pdb
+E:\برنامج الميزان\CustomerVersion\SmartScale\bin\Debug\SmartScale.xml
+E:\برنامج الميزان\CustomerVersion\SmartScale\bin\Debug\DBLib.dll
+E:\برنامج الميزان\CustomerVersion\SmartScale\bin\Debug\Kernel.dll
+E:\برنامج الميزان\CustomerVersion\SmartScale\bin\Debug\Kernel.pdb
+E:\برنامج الميزان\CustomerVersion\SmartScale\bin\Debug\Kernel.xml
+E:\برنامج الميزان\CustomerVersion\SmartScale\bin\Debug\DBLib.pdb
+E:\برنامج الميزان\CustomerVersion\SmartScale\bin\Debug\DBLib.xml
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmUpDatedTransactions.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptQuota.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.Reports.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\برنامج الميزان\CustomerVersion\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.exe
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\SmartScale.exe
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\SmartScale.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\SmartScale.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\DBLib.dll
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\Kernel.dll
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\Kernel.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\Kernel.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\DBLib.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\DBLib.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmUpDatedTransactions.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptQuota.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.Reports.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.Resources.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.xml
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.pdb
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\SmartScale.exe
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\SmartScale.pdb
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\SmartScale.xml
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\DBLib.dll
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\Kernel.dll
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\Kernel.pdb
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\Kernel.xml
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\DBLib.pdb
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Debug\DBLib.xml
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\ResolveAssemblyReference.cache
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmUpDatedTransactions.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptCarInsideSearch.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptQuota.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmReportReturns.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmEditReturns.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmReturns.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmAddNew.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmChoose.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmDrivers.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmLogin.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmMain.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmReports.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmAllReports.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmCustQnty.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmEdit.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmEditFirstScale.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmManualEditPassword.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmPassWord.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptAccounts.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptCarsInside.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptCustQnty.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmSearchTrans.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.ManualEditReport.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.Reports.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.Resources.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.vbproj.GenerateResource.Cache
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.exe
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmUpDateQouta.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmUpDateQouta.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptQuotaForSales.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.frmrptQuotaForSales.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmCollectedMotions.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Debug\SmartScale.cfrmCollectedMotions.resources

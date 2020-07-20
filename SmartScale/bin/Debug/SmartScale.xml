@@ -1,0 +1,158 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SmartScale
+</name>
+</assembly>
+<members>
+<member name="P:SmartScale.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SmartScale.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SmartScale.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:SmartScale.modCodeShare.TruckMessagesPath">
+	<summary>
+ Returns Truck Messages sound effects' path by combining application startup path and gstrTRUCK_MESSAGES_SOUND_EFFECTS_RELATIVE_PATH
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:SmartScale.modAllForms.gContractO">
+ Elsaman 11/12/2019 '''
+
+</member><member name="M:SmartScale.cfrmAddNew.cboQGoodID_SelectedIndexChanged(System.Object,System.EventArgs)">
+ Elsaman 5/1/2020 '''
+
+</member><member name="M:SmartScale.cfrmAddNew.lstContract_SelectedIndexChanged(System.Object,System.EventArgs)">
+ lstContract '''
+
+</member><member name="M:SmartScale.cfrmAddNew.lstContractDet_SelectedValueChanged(System.Object,System.EventArgs)">
+ lstContractDet '''
+
+</member><member name="P:SmartScale.cfrmMain.CurrentView">
+	<summary>
+ Selects current user view (New Transaction or Transactions grid view)
+ </summary>
+	<value></value>
+	<returns>Current Active User View</returns>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.SwitchView">
+	<summary>
+ Toggles current view from new transaction to Transactions view
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.ValidateEmptyControl(System.Object,System.String)">
+	<summary>
+ Check a certain control (Textbox/Combobox) for empty user data entry then returns current state.
+ </summary>
+	<param name="objControl">Control to validate</param>
+	<param name="strItemName">Missing item will be displayed for user validation message</param>
+	<returns>One of enmValidationResult results</returns>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.CheckCtrlValues">
+	<summary>
+ Automatically Check each control and validate its value against the value in database 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.ClearlblWeight">
+	<summary>
+ Loops through labels used to show the weight and clear it
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.chkPrintCompayName_MouseHover(System.Object,System.EventArgs)">
+ Elsaman 8/12/2019 '''
+
+</member><member name="M:SmartScale.cfrmMain.chkPrintCompayName_MouseLeave(System.Object,System.EventArgs)">
+ Elsaman 8/12/2019 '''
+
+</member><member name="M:SmartScale.cfrmMain.DisableControls(System.Int32)">
+ Elsaman 9/12/2019 '''
+
+</member><member name="M:SmartScale.cfrmMain.EnabledControls">
+ Elsaman 9/12/2019 '''
+
+</member><member name="M:SmartScale.ClsAdo.checkExist(System.String,System.String,System.Windows.Forms.ComboBox,System.String,System.Windows.Forms.Control)">
+	<summary>
+ This sub load control depend on select from combobox 
+ </summary>
+	<param name="Field_Name">coulmn contain value will be loaded in control</param>
+	<param name="tbl_Name">table name that contain Filed_Name </param>
+	<param name="cbo">ComboBox that contain value will use to load control </param>
+	<param name="Where_Field_Code">column name that contain ComboBox value member </param>
+	<param name="TargetCtrl"> Traget control will be dispalyed target value </param>
+	<remarks></remarks>
+</member><member name="M:SmartScale.clsMainMethods.RadioChecked(System.Windows.Forms.RadioButton,System.Windows.Forms.RadioButton)">
+	<summary>
+ Automatically Check The Second Specified RadioButton When The First Specified RadioButton Checked
+ </summary>
+	<param name="FrstRad">RadioButton Checked By User</param>
+	<param name="ScndRad">Target RadioButton That Automatically Checked When First RadioButton Checked</param>
+	<remarks></remarks>
+</member><member name="M:SmartScale.clsMainMethods.InstantMsg(System.Int16,System.Int16,System.Int16,System.Object,System.String,System.Windows.Forms.Timer,System.Boolean)">
+	<summary>
+ Show The Specified Message Text For predifend Specific Time
+ </summary>
+	<param name="StartVal">Starting Value For Needed Time</param>
+	<param name="EndVal">End Value For Needed Time</param>
+	<param name="IncrVal">Amount Of Increased Time [Defining Speed Of Message Show]</param>
+	<param name="MsgCtrl">The Control To Hold The Specified Message In Its Text Property</param>
+	<param name="Msg">The Message To Show</param>
+	<param name="Tmr">Timer Control</param>
+	<param name="MsgRemove">Define Whether The Message Is Temporary Or permanent</param>
+	<remarks></remarks>
+</member><member name="M:SmartScale.clsMainMethods.GetShifName_And_SearchDate(System.Boolean)">
+	<summary>
+ if KnowShift_Date=false ------  Get Shift_Name and Shift_Start_Time 
+ if KnowShift_Date=True  ------ Get Date( From and To) to use it in DataGridview1 Bind when Press BtnSwitchView
+ </summary>
+	<param name="KnowShift_Date"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SmartScale.clsMainMethods.ChangeCtrlColor(System.Windows.Forms.Control,System.Windows.Forms.Control,System.Windows.Forms.Control,System.Windows.Forms.Control,System.Boolean)">
+	<summary>
+ Used To Change Labels [Date - Weight] Color According To Existance In Database
+ </summary>
+	<param name="IsNew">Parameter Evaluates True In Case Of New transaction</param>
+	<remarks></remarks>
+</member><member name="P:SmartScale.frmReturns.CurrentView">
+	<summary>
+ Selects current user view (New Transaction or Transactions grid view)
+ </summary>
+	<value></value>
+	<returns>Current Active User View</returns>
+	<remarks></remarks>
+</member><member name="M:SmartScale.frmReturns.SwitchView">
+	<summary>
+ Toggles current view from new transaction to Transactions view
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SmartScale.frmReturns.ValidateEmptyControl(System.Object,System.String)">
+	<summary>
+ Check a certain control (Textbox/Combobox) for empty user data entry then returns current state.
+ </summary>
+	<param name="objControl">Control to validate</param>
+	<param name="strItemName">Missing item will be displayed for user validation message</param>
+	<returns>One of enmValidationResult results</returns>
+	<remarks></remarks>
+</member><member name="M:SmartScale.frmReturns.CheckCtrlValues">
+	<summary>
+ Automatically Check each control and validate its value against the value in database 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SmartScale.frmReturns.ClearlblWeight">
+	<summary>
+ Loops through labels used to show the weight and clear it
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

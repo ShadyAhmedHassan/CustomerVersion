@@ -1,0 +1,288 @@
+E:\Projects\Progects Class\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\Projects\Progects Class\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\Projects\Progects Class\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\Projects\Progects Class\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\Projects\Progects Class\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\Projects\Progects Class\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\Projects\Progects Class\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\Projects\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\Projects\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\Projects\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\Projects\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\work 162010\Work\AAMAL\Progects Class\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+G:\الميزان\AMRIA Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+G:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+D:\Bakup\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+C:\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+F:\C\الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\21-07-2013\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\15-06-2014\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+F:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+D:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\A4P\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+H:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+G:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+L:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+D:\جديد برامج الميزان\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\برنامج الميزان\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\Projects\Alex IT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\Projects\Alex IT\ScaleProgram\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\برنامج الميزان\AlexIT\CUSTOMER Version\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+E:\برنامج الميزان\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\DBLib.dll
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\DBLib.pdb
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\DBLib.xml
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\Kernel.dll
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\Kernel.pdb
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\bin\Debug\Kernel.xml
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\ResolveAssemblyReference.cache
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.Resources.resources
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.vbproj.GenerateResource.Cache
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.dll
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.xml
+G:\ScaleProgram\CustomerVersion\Progects Class\SmartDBLib\obj\Debug\DBLib.pdb

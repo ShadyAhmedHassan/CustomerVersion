@@ -1,0 +1,10 @@
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\bin\Debug\testsp_depen.exe
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\bin\Debug\testsp_depen.pdb
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\bin\Debug\testsp_depen.xml
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\obj\Debug\testsp_depen.Form1.resources
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\obj\Debug\testsp_depen.Resources.resources
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\obj\Debug\testsp_depen.vbproj.GenerateResource.Cache
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\obj\Debug\testsp_depen.exe
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\obj\Debug\testsp_depen.xml
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\testsp_depen\testsp_depen\obj\Debug\testsp_depen.pdb

@@ -1,0 +1,159 @@
+31/05/2009 08:58:34 at clsDBConnection::Execute The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblCarInfo_tblDealer". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblDealer", column 'Dealer_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Insert into [tblCarInfo] (TruckBoard_No,TruckBoard_City_ID,Dealer_ID) VALUES (N'4444',27,45)
+01/06/2009 11:15:35 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:35 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:36 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:36 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:37 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:37 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:37 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:37 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:37 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:37 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:38 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblCar". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Car_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:39 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblCar] Where [tblCar].[Car_ID]=70
+01/06/2009 11:15:40 at clsDBConnection::Execute The DELETE statement conflicted with the REFEREN25/07/2010 15:19:58 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+25/07/2010 15:39:39 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+25/07/2010 15:40:51 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+08/08/2010 08:23:00 at clsDBConnection::Open Unable to open the physical file "F:\SmartScale\SmartScale [27-5-2009]\SmartScaleDB_1.mdf". Operating system error 3: "3(error not found)".
+Cannot open database "SmartScaleDB_1" requested by the login. The login failed.
+Login failed for user 'TH'.
+File activation failure. The physical file name "F:\SmartScale\SmartScale [27-5-2009]\SmartScaleDB_1_log.LDF" may be incorrect.
+08/08/2010 08:29:11 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblCar] where [tblCar].[Car_ID]=26
+08/08/2010 08:30:05 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblCar] where [tblCar].[Car_ID]=26
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblCar] where [tblCar].[Car_ID]=26
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblCity] where [tblCity].[City_ID]=13
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblDriver] where [tblDriver].[Driver_ID]=37
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblCarInfo] where [tblCarInfo].[Car_Info_ID]=26
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblGood] where [tblGood].[Good_ID]=8
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblUser] where [tblUser].[User_ID]=22
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblIssueTo] where [tblIssueTo].[Issue_To_ID]=20
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblScale] where [tblScale].[Scale_ID]=1
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblUserPermission] where [tblUserPermission].[User_Permission_ID]=0
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblShift] where [tblShift].[Shift_ID]=10
+08/08/2010 08:32:39 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblSlip] where [tblSlip].[Slip_ID]=3
+08/08/2010 08:32:41 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblCar] where [tblCar].[Car_ID]=26
+08/08/2010 08:32:41 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblCity] where [tblCity].[City_ID]=13
+08/08/2010 08:32:41 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblDriver] where [tblDriver].[Driver_ID]=37
+08/08/2010 08:32:41 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblCarInfo] where [tblCarInfo].[Car_Info_ID]=26
+08/08/2010 08:32:41 at clsDBConnection::Execute There is already an open DataReader associated with this Command which must be closed first.
+Additional Info:SQL statment:Select * from [tblGood] where [tblGoo12/08/2010 13:10:24 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+16/08/2010 10:22:22 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+16/08/2010 12:03:49 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+16/08/2010 12:56:47 at clsDBConnection::Open Login failed for user 'sa'.
+16/08/2010 12:57:06 at clsDBConnection::Open Login failed for user '123'.
+18/08/2010 12:51:02 at clsDBConnection::Execute The DELETE statement conflicted with the REFERENCE constraint "FK_tblTransactions_tblGood". The conflict occurred in database "SmartScaleDB_1", table "dbo.tblTransactions", column 'Good_ID'.
+The statement has been terminated.
+Additional Info:SQL statment:Delete from [tblGood] Where [tblGood].[Good_ID]=5
+18/08/2010 12:51:02 at clsDatabaseObjectS::Remove No records to be deleted
+Additional Info:Dml statment:Delete from [tblGood] Where [tblGood].[Good_ID]=5
+18/08/2010 13:33:14 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+19/08/2010 13:51:46 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+13/09/2010 12:12:32 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+16/09/2010 10:00:49 at clsDBConnection::Open Object reference not set to an instance of an object.
+20/09/2010 10:32:09 at clsDBConnection::Open Login failed for user 'it'.
+20/09/2010 13:40:32 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+21/09/2010 11:40:39 at clsDBConnection::Open Cannot open database "SmartScaleDB_1" requested by the login. The login failed.
+Login failed for user 'it'.
+03/10/2010 14:00:06 at clsDBConnection::Open A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+03/10/2010 17:30:24 at clsDBConnection::Open An error has occurred while establishing a connection to the server.  When connecting to SQL Server 2005, this failure may be caused by the fact that under the default settings SQL Server does not allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+11/12/2019 16:25:10 at clsContractDetO::Save Incorrect syntax near ','.
+Additional Info:Dml statment:set dateformat ymd Insert into [tblContractDet] (ContractID,GoodID,Quantity) VALUES (,0,N'0712',5)
+11/12/2019 16:28:46 at clsContractDetO::Save Incorrect syntax near ','.
+Additional Info:Dml statment:set dateformat ymd Insert into [tblContractDet] (ContractID,GoodID,Quantity) VALUES (,0,N'0706',3)
+12/12/2019 08:20:30 at clsContractDetO::Save Incorrect syntax near ','.
+Additional Info:Dml statment:set dateformat ymd Insert into [tblContractDet] (ContractID,GoodID,Quantity) VALUES (,7,N'0714',5)
+14/12/2019 11:47:53 at clsContractDetO::Save No records to be updated
+Additional Info:Dml statment:set dateformat ymd Update [tblContractDet] Set ContractID=1,GoodID=N'0713',Quantity=10 Where [tblContractDet].[ContractDetID]=1
+05/03/2020 15:13:51 at clsDebitNoteO::Save Cannot insert the value NULL into column 'TotalQuantity', table 'MultiSeeds2019.dbo.tblDebitNote'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+Additional Info:Dml statment:set dateformat ymd Insert into [tblDebitNote] (DebitNote,ContractID,finish,Notes) VALUES (N'998877',1,0,N'ÚÛÚÛÝåÚÝåÚ')
+08/03/2020 11:06:05 at clsContractDetO::Save Violation of PRIMARY KEY constraint 'PK_tblContractDet'. Cannot insert duplicate key in object 'dbo.tblContractDet'. The duplicate key value is (2009, 0711).
+The statement has been terminated.
+Additional Info:Dml statment:set dateformat ymd Insert into [tblContractDet] (ContractID,GoodID) VALUES (2009,N'0711')

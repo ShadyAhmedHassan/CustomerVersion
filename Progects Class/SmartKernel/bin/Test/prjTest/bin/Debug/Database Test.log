@@ -1,0 +1,9 @@
+04/03/2009 10:41:31 at clsConnectionTransaction::Begin Object reference not set to an instance of an object.
+04/03/2009 13:56:26 at clsDBConnection::Execute Invalid object name 'products000'.
+Additional Info:SQL statment:select count(*) from products000
+04/03/2009 14:00:09 at clsDBConnection::Execute Invalid object name 'products000'.
+Additional Info:SQL statment:select count(*) from products000
+04/03/2009 14:01:46 at clsDBConnection::Execute Invalid object name 'products000'.
+Additional Info:SQL statment:select count(*) from products000
+04/03/2009 14:13:03 at clsDBConnection::Execute Invalid object name 'products000'.
+Additional Info:SQL statment:select count(*) from products000

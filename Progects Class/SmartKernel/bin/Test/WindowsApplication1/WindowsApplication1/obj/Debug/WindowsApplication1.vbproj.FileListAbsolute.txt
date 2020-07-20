@@ -1,0 +1,10 @@
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Projects\Progects Class\Progects Class\SmartKernel\bin\Test\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

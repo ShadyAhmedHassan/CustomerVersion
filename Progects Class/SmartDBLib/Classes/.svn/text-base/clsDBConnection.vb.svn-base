@@ -1,0 +1,213 @@
+﻿Imports System.Windows.Forms
+Imports System.Windows.Forms.Control
+Imports Kernel
+Public Class clsDBConnection
+    Private mstrConnectionString As String = ""
+    Private mconConnection As Data.SqlClient.SqlConnection = Nothing
+    Private mblnIsOpen As Boolean = False
+    Private mstrLastExecutionSQL As String = ""
+    Private Enum enmExcuteMode
+        Scalar
+        Reader
+        NonQuery
+    End Enum
+    Public Sub New()
+        On Error Resume Next
+        Dim cb As New AsyncCallback(AddressOf result)
+        x.BeginInvoke(ConnectionString, cb, Nothing)
+    End Sub
+    Public Sub New(ByVal strConnectionString As String)
+        Me.New()
+        On Error Resume Next
+        Me.ConnectionString = strConnectionString
+    End Sub
+
+    'REM     Me._connection = New Global.System.Data.SqlClient.SqlConnection
+    'REM    Me._connection.ConnectionString = Global.Roky.My.MySettings.Default.bodytalkConnectionString
+    ''Private _connection As Global.System.Data.SqlClient.SqlConnection
+    '<Global.System.Diagnostics.DebuggerNonUserCodeAttribute()> _
+    '    Function InitConnection() As String
+    '    mconConnection = New Global.System.Data.SqlClient.SqlConnection
+    '    REM   Me._connection.ConnectionString = Global.RokyDBLib.My.MySettings.Default.bodytalkConnectionString
+    '    mconConnection.ConnectionString = Global.Roky.Settings.Default.bodytalkConnectionString
+
+    '    Return mconConnection.ConnectionString
+    'End Function
+
+
+    Public Property ConnectionString() As String
+        Get
+            Return mstrConnectionString
+        End Get
+        Set(ByVal value As String)
+            Call Me.Close()
+            mstrConnectionString = value
+        End Set
+    End Property
+
+    Public Function Open(Optional ByVal strConnectionString As String = "") As Boolean
+        On Error Resume Next
+        If strConnectionString.Length > 0 Then
+            Me.ConnectionString = strConnectionString
+        End If
+        Call Err.Clear()
+        mconConnection = New SqlClient.SqlConnection(Me.ConnectionString)
+        Call mconConnection.Open()
+        Call clsLogFile.OnErrorWriteToLog(glogLogFile, TypeName(Me), "Open", Err)
+        mblnIsOpen = (Err.Number = 0)
+        Return mblnIsOpen
+    End Function
+
+    Delegate Function mydlg(ByVal str As String) As Boolean
+    REM 3 create object from delegation 
+    Dim x As New mydlg(AddressOf Open)
+
+    REM 4 create boolean to transfer data from worked  thread  to main thread
+    Dim b As Boolean
+    REM 5 create action that will be done when come back to main thread
+   
+
+    REM 6 create sub to send reuslt  and delegation from return to main thread
+    Sub result(ByVal ir As IAsyncResult)
+        b = x.EndInvoke(ir)
+        'If b = True Then
+        '    MessageBox.Show("Done")
+        'Else
+        '    MessageBox.Show("NO DATA FOUND")
+        'End If
+        ' Back to the main thred
+        'Dim mt As New MethodInvoker(AddressOf updateui)
+        'Dim MM As New Control
+        'MM.Invoke(mt)
+    End Sub
+    Public Sub Close()
+        On Error Resume Next
+        If mconConnection IsNot Nothing Then
+            If mconConnection.State = ConnectionState.Open Then
+                Call mconConnection.Close()
+            End If
+            Call mconConnection.Dispose()
+            mconConnection = Nothing
+        End If
+        mblnIsOpen = False
+    End Sub
+    Public Function ReOpen()
+        On Error Resume Next
+        Call Me.Close()
+        Return Me.Open(Me.ConnectionString)
+    End Function
+    Public ReadOnly Property IsOpen()
+        Get
+            On Error Resume Next
+            Return mblnIsOpen
+        End Get
+    End Property
+
+    Private Function Execute(ByVal strSQL As String, ByVal envMode As enmExcuteMode, Optional ByVal intTimeOut As Integer = 15) As Object
+        Dim cmdCommand As SqlClient.SqlCommand
+        On Error Resume Next
+        mstrLastExecutionSQL = strSQL
+        cmdCommand = mconConnection.CreateCommand()
+        cmdCommand.CommandText = strSQL
+        cmdCommand.CommandTimeout = intTimeOut
+        Call Err.Clear()
+        Select Case envMode
+            Case enmExcuteMode.NonQuery
+                Execute = cmdCommand.ExecuteNonQuery()
+            Case enmExcuteMode.Reader
+                Execute = cmdCommand.ExecuteReader()
+            Case enmExcuteMode.Scalar
+                Execute = cmdCommand.ExecuteScalar()
+        End Select
+        Call clsLogFile.OnErrorWriteToLog(glogLogFile, TypeName(Me), "Execute", Err, "SQL statment:" & strSQL)
+
+        cmdCommand.Dispose()
+        cmdCommand = Nothing
+    End Function
+    Public ReadOnly Property LastExecutionSQL() As String
+        Get
+            Return mstrLastExecutionSQL
+        End Get
+    End Property
+    Public Function ExecuteReader(ByVal strSQL As String, Optional ByVal intTimeOut As Integer = 15) As Object
+        On Error Resume Next
+        Return Me.Execute(strSQL, enmExcuteMode.Reader, intTimeOut)
+    End Function
+    Public Function ExecuteNonQuery(ByVal strDML As String, Optional ByVal intTimeOut As Integer = 15) As Integer
+        On Error Resume Next
+        Return CInt(Me.Execute(strDML, enmExcuteMode.NonQuery, intTimeOut))
+    End Function
+    Public Function ExecuteScaler(ByVal strSQL As String, Optional ByVal intTimeOut As Integer = 15) As Object
+        On Error Resume Next
+        Return Me.Execute(strSQL, enmExcuteMode.Scalar, intTimeOut)
+    End Function
+    Public Function GetRecordCount(ByVal strSQL As String) As Long
+        Dim strQuery As String = ""
+        On Error Resume Next
+
+        If strSQL.Trim().ToLower().StartsWith("select ") = False Then
+            strSQL = "Select * from " & strSQL
+        End If
+        ''''                  Note                            '''''''''
+        Return Me.ExecuteScaler("Select Count(1) from (" & strSQL & ") qryCount")
+    End Function
+    Public Function GetMaxFieldValue(ByVal strTableName As String, ByVal strFieldName As String) As Object
+        Dim strQuery As String = ""
+        On Error Resume Next
+        Return Me.ExecuteScaler("Select Max([" & strFieldName & "]) from [" & strTableName & "]")
+    End Function
+    Public Function GetMaxFieldValueLong(ByVal strTableName As String, ByVal strFieldName As String) As Long
+        On Error Resume Next
+        Return CLng(GetMaxFieldValue(strTableName, strFieldName))
+    End Function
+
+    Public Function FillList(ByRef objList As Object, ByVal strSQL As String, _
+                            ByVal strDisplayColumn As String, ByVal strValueColumn As String) As Object
+        Dim da As New SqlDataAdapter
+        Dim ds As New DataSet
+        Dim cn As New SqlConnection
+        Dim cm As New SqlCommand
+        If cn.State = ConnectionState.Closed Then
+            cn.ConnectionString = mstrConnectionString
+            cn.Open()
+        End If
+        cm.Connection = cn
+        cm.CommandText = strSQL
+        cm.ExecuteNonQuery()
+        da.SelectCommand = cm
+        da.Fill(ds)
+        objList.DataSource = ds
+        objList.DisplayMember = ds.Tables(0).TableName + "." + strDisplayColumn
+        objList.ValueMember = ds.Tables(0).TableName + "." + strValueColumn
+        cm.Cancel()
+        cm.Dispose()
+        cn.Close()
+        cn.Dispose()
+        da.Dispose()
+        Return objList
+    End Function
+    Public Overloads Function FillGrid(ByRef objList As Object, ByVal strSQL As String) As Object
+        Dim da As New SqlDataAdapter
+        Dim ds As New DataSet
+        Dim cn As New SqlConnection
+        Dim cm As New SqlCommand
+        If cn.State = ConnectionState.Closed Then
+            cn.ConnectionString = mstrConnectionString
+            cn.Open()
+        End If
+        cm.Connection = cn
+        cm.CommandText = strSQL
+        cm.ExecuteNonQuery()
+        da.SelectCommand = cm
+        da.Fill(ds)
+        objList.DataSource = ds.Tables(0)
+        cm.Cancel()
+        cm.Dispose()
+        cn.Close()
+        cn.Dispose()
+        da.Dispose()
+        Return objList
+    End Function
+
+
+End Class

@@ -1,0 +1,1 @@
+Data Source=ALEX-9A47CA73E7\SQLEXPRESS;Initial Catalog=SmartScaleDB_1;User ID=IT;Password=123

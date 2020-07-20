@@ -1,0 +1,1 @@
+Data Source=.\MSSQLSERVER2;Initial Catalog=SmartScaleDBTest;User ID=it;Password=123

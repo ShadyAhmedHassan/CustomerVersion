@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DBLib", "SmartDBLib\DBLib.vbproj", "{A519B909-E468-4403-9C35-A31D56C97A90}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Kernel", "SmartKernel\Kernel.vbproj", "{5A455906-FDD2-4EFB-A8E1-4FCD87937D3C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjTest", "SmartKernel\bin\Test\prjTest\prjTest.vbproj", "{9744884A-0973-4D8C-ABC5-37A8AB8DE5C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A519B909-E468-4403-9C35-A31D56C97A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A519B909-E468-4403-9C35-A31D56C97A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A519B909-E468-4403-9C35-A31D56C97A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A519B909-E468-4403-9C35-A31D56C97A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A455906-FDD2-4EFB-A8E1-4FCD87937D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A455906-FDD2-4EFB-A8E1-4FCD87937D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A455906-FDD2-4EFB-A8E1-4FCD87937D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A455906-FDD2-4EFB-A8E1-4FCD87937D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9744884A-0973-4D8C-ABC5-37A8AB8DE5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9744884A-0973-4D8C-ABC5-37A8AB8DE5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9744884A-0973-4D8C-ABC5-37A8AB8DE5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9744884A-0973-4D8C-ABC5-37A8AB8DE5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

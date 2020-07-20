@@ -1,0 +1,1 @@
+Data Source=METWALY-DB;Initial Catalog=SmartScaleDB_1;User ID=a4p;Password=123

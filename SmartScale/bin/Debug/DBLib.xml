@@ -1,0 +1,94 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DBLib
+</name>
+</assembly>
+<members>
+<member name="M:DBLib.clsConnectionTransaction.#ctor">
+	<summary>
+ New is declared as friend in order to be not creatable 
+ </summary>
+	<remarks></remarks>
+</member><member name="P:DBLib.clsConnectionTransaction.Connection">
+	<summary>
+ SQL Client Connection is assgined by the clsDBConnection here
+ This will be used in case of that clsDBConnection 
+ Internaly closes the connection or create/open a new one.
+ </summary>
+	<value>sqlConnection created by the clsDBConnection (mconConnection)</value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DBLib.clsConnectionTransaction.Transaction">
+	<summary>
+ Internally used to access the trasaction and used by clsDBConnection::Execute
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks>When set this will dispose old transaction and reset the number of affected records</remarks>
+</member><member name="M:DBLib.clsConnectionTransaction.Begin">
+	<summary>
+ Begin a new transaction
+ </summary>
+	<remarks>Raises error in case of that another transaction is active</remarks>
+</member><member name="M:DBLib.clsConnectionTransaction.Commit">
+	<summary>
+ Commits active transaction
+ </summary>
+	<returns>true in case of transactions were committed, false in case of error or transaction has no affected records</returns>
+	<remarks></remarks>
+</member><member name="M:DBLib.clsConnectionTransaction.Rollback">
+	<summary>
+ Rollback a transaction
+ </summary>
+	<returns>true in case of transactions were rollback, false in case of error or transaction has no affected records</returns>
+	<remarks></remarks>
+</member><member name="P:DBLib.clsConnectionTransaction.Active">
+	<summary>
+ Determines whether transaction has been begun by Begin() method
+ </summary>
+	<value></value>
+	<returns>true if transaction has been begun by Begin() method</returns>
+	<remarks></remarks>
+</member><member name="P:DBLib.clsConnectionTransaction.AffectedRecords">
+	<summary>
+ Number of affected records by this transaction, usually comes from clsDBConnection::Execute method
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks>Value is assgined by AssignNumberOfAffectedRecords() or IncNumberOfAffectedRecords() methods</remarks>
+</member><member name="M:DBLib.clsConnectionTransaction.AssignNumberOfAffectedRecords(System.Int64)">
+	<summary>
+ Sets affected number of records by the current transaction
+ </summary>
+	<param name="lngNumber"></param>
+	<remarks>Usually used to zerofy number of affected results or by the IncNumberOfAffectedRecords() method</remarks>
+</member><member name="M:DBLib.clsConnectionTransaction.IncNumberOfAffectedRecords(System.Int64)">
+	<summary>
+ Increments number of affected records by the current transaction
+ </summary>
+	<param name="lngAddedValue"></param>
+	<remarks>Usually comes from clsDBConnection::Execute method</remarks>
+</member><member name="M:DBLib.clsDatabaseObjectS.FillList(System.Object,System.Object)">
+ New
+
+</member><member name="M:DBLib.clsDatabaseObjectS.FillGrid(System.Object,System.String)">
+ New
+
+</member><member name="P:DBLib.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DBLib.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DBLib.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

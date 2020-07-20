@@ -1,0 +1,20 @@
+set dateformat dmy select sum ((Quota)) as Quota,Dealer_Name ,Good_Name 
+,(select isnull(sum(Second_Weight-First_Weigth) ,0) as TotalweightTrans from tblTransactions where Out_Date is not null 
+and TR_TY=2 and  Out_Date is not null and  CONVERT(date, Out_Date) between '25/12/2019 08:00:00 AM' and '26/12/2019 07:59:59 AM'
+and  tblTransactions.Dealer_ID = tblDealer.Dealer_ID and  tblTransactions.Good_ID = tblGood.Good_ID) as TotalweightTrans,
+
+(select isnull(sum(tblTransQuota.Quantity),0) as TotalweightTrans from tblTransQuota 
+   join tblDailyQuota on tblTransQuota .QuotaID =tblDailyQuota .QuotaID 	and DateQuota =convert(Date,'10/03/2020') 
+   join tblDebitNote on tblDailyQuota .DebitNoteID =tblDebitNote .DebitNoteID
+   where tblDebitNote .ContractID in (select tblContractDet.ContractID   from  tblContractDet
+   join tblContracts on tblContractDet .ContractID =tblContracts .ContractID
+   where CustomerID = tblDealer.Dealer_ID and GoodID =tblGood.Good_ID)) as Totalweight
+
+,(select count(Trans_ID) as CarInSide from  tblTransactions where Out_Date is null and tblTransactions.Dealer_ID = tblDealer.Dealer_ID and tblTransactions.Good_ID = tblGood.Good_ID) 
+as CarInSide,DateQuota from tblDailyQuota
+ join tblContractDet on tblContractDet.ContractDetID = tblDailyQuota.ContractDetID 
+ join tblContracts on tblContracts.ContractID = tblContractDet.ContractID 
+ join tblGood on tblGood.Good_ID = tblContractDet.GoodID 
+ join tblDealer on tblDealer.Dealer_ID = tblContracts.CustomerID 
+where  DateQuota =  CONVERT(date,'2019-12-25')
+ group by tblDealer.Dealer_ID,tblDealer.Dealer_Name,tblGood.Good_Name,tblGood.Good_ID ,tblDailyQuota.DateQuota

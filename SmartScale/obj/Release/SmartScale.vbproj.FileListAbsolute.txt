@@ -1,0 +1,176 @@
+C:\Documents and Settings\Gladiator\Desktop\New SmarScale\SmartScale\SmartScale\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gladiator\Desktop\New SmarScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmLogin.resources
+C:\Documents and Settings\Gladiator\Desktop\New SmarScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmMain.resources
+C:\Documents and Settings\Gladiator\Desktop\New SmarScale\SmartScale\SmartScale\obj\Release\SmartScale.Resources.resources
+C:\Documents and Settings\Gladiator\Desktop\New SmarScale\SmartScale\SmartScale\obj\Release\SmartScale.vbproj.GenerateResource.Cache
+D:\Serial Port\SmartScale [11-6-2009]\SmartScale\SmartScale\obj\Release\ResolveAssemblyReference.cache
+D:\Serial Port\SmartScale [11-6-2009]\SmartScale\SmartScale\obj\Release\SmartScale.cfrmAddNew.resources
+D:\Serial Port\SmartScale [11-6-2009]\SmartScale\SmartScale\obj\Release\SmartScale.cfrmChoose.resources
+D:\Serial Port\SmartScale [11-6-2009]\SmartScale\SmartScale\obj\Release\SmartScale.cfrmDrivers.resources
+D:\Serial Port\SmartScale [11-6-2009]\SmartScale\SmartScale\obj\Release\SmartScale.cfrmLogin.resources
+D:\Serial Port\SmartScale [11-6-2009]\SmartScale\SmartScale\obj\Release\SmartScale.cfrmMain.resources
+D:\Serial Port\SmartScale [11-6-2009]\SmartScale\SmartScale\obj\Release\SmartScale.cfrmReports.resources
+D:\Serial Port\SmartScale [11-6-2009]\SmartScale\SmartScale\obj\Release\SmartScale.Resources.resources
+D:\Serial Port\SmartScale [11-6-2009]\SmartScale\SmartScale\obj\Release\SmartScale.vbproj.GenerateResource.Cache
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\SmartScale.exe
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\SmartScale.pdb
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\SmartScale.xml
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\DateAndTimeControls.dll
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\DBLib.dll
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\Kernel.dll
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\DateAndTimeControls.pdb
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\DateAndTimeControls.xml
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\ResolveAssemblyReference.cache
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmAddNew.resources
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmChoose.resources
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmDrivers.resources
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmLogin.resources
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmMain.resources
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmReports.resources
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.frmAllReports.resources
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.Resources.resources
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.vbproj.GenerateResource.Cache
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.exe
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.xml
+D:\smart 7-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.pdb
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\SmartScale.exe
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\SmartScale.pdb
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\SmartScale.xml
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\DateAndTimeControls.dll
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\DBLib.dll
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\Kernel.dll
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\DateAndTimeControls.pdb
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\bin\Release\DateAndTimeControls.xml
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\ResolveAssemblyReference.cache
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmAddNew.resources
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmChoose.resources
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmDrivers.resources
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmLogin.resources
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmMain.resources
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.cfrmReports.resources
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.frmAllReports.resources
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.Resources.resources
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.vbproj.GenerateResource.Cache
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.exe
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.xml
+D:\Smart 15-8-2010\SmartScale\SmartScale\SmartScale\obj\Release\SmartScale.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.exe
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\SmartScale.exe
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\SmartScale.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\SmartScale.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\DateAndTimeControls.dll
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\DBLib.dll
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\Kernel.dll
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\Kernel.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\Kernel.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\DBLib.pdb
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\bin\Release\DBLib.xml
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\ResolveAssemblyReference.cache
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmrptCarInsideSearch.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.cfrmReportReturns.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmEditReturns.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmReturns.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.cfrmAddNew.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.cfrmChoose.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.cfrmDrivers.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.cfrmLogin.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.cfrmMain.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.cfrmReports.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmAllReports.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmCustQnty.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmEdit.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmEditFirstScale.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmManualEditPassword.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmPassWord.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmrptAccounts.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmrptCarsInside.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmrptCustQnty.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.frmSearchTrans.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.ManualEditReport.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.Reports.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.Resources.resources
+C:\Users\a4p_admin\Desktop\برنامج الميزان\CUSTOMER Version\SmartScale\obj\Release\SmartScale.vbproj.GenerateResource.Cache
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.exe
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.xml
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.pdb
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\SmartScale.exe
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\SmartScale.pdb
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\SmartScale.xml
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\DateAndTimeControls.dll
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\DBLib.dll
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\Kernel.dll
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\Kernel.pdb
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\Kernel.xml
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\DBLib.pdb
+G:\ScaleProgram\CustomerVersion\SmartScale\bin\Release\DBLib.xml
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\ResolveAssemblyReference.cache
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmUpDatedTransactions.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptCarInsideSearch.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptQuota.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmReportReturns.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmEditReturns.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmReturns.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmAddNew.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmChoose.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmDrivers.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmLogin.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmMain.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmReports.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmAllReports.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmCustQnty.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmEdit.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmEditFirstScale.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmManualEditPassword.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmPassWord.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptAccounts.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptCarsInside.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptCustQnty.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmSearchTrans.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.ManualEditReport.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.Reports.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.Resources.resources
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.vbproj.GenerateResource.Cache
+G:\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmUpDateQouta.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.exe
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmUpDatedTransactions.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptCarInsideSearch.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptQuota.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmUpDateQouta.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmReportReturns.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmEditReturns.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmReturns.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmAddNew.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmChoose.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmDrivers.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmLogin.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmMain.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.cfrmReports.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmAllReports.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmCustQnty.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmEdit.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmEditFirstScale.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmManualEditPassword.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmPassWord.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptAccounts.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptCarsInside.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmrptCustQnty.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.frmSearchTrans.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.ManualEditReport.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.Reports.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.Resources.resources
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\obj\Release\SmartScale.vbproj.GenerateResource.Cache
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\SmartScale.exe
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\SmartScale.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\SmartScale.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\DateAndTimeControls.dll
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\DBLib.dll
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\Kernel.dll
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\Kernel.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\Kernel.xml
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\DBLib.pdb
+E:\Projects\Alex IT\ScaleProgram\CustomerVersion\SmartScale\bin\Release\DBLib.xml
