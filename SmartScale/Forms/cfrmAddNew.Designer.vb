@@ -24,8 +24,8 @@ Partial Class cfrmAddNew
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(cfrmAddNew))
-        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.ContAddNew = New System.Windows.Forms.TabControl
         Me.tbCar = New System.Windows.Forms.TabPage
         Me.PnlCar = New System.Windows.Forms.Panel
@@ -566,6 +566,7 @@ Partial Class cfrmAddNew
         Me.Label167 = New System.Windows.Forms.Label
         Me.TextBox9 = New System.Windows.Forms.TextBox
         Me.Label168 = New System.Windows.Forms.Label
+        Me.Label169 = New System.Windows.Forms.Label
         Me.ContAddNew.SuspendLayout()
         Me.tbCar.SuspendLayout()
         Me.PnlCar.SuspendLayout()
@@ -4513,6 +4514,7 @@ Partial Class cfrmAddNew
         Me.Panel15.BackColor = System.Drawing.Color.LightSteelBlue
         Me.Panel15.BackgroundImage = Global.SmartScale.My.Resources.Resources.blue
         Me.Panel15.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+        Me.Panel15.Controls.Add(Me.Label169)
         Me.Panel15.Controls.Add(Me.Label131)
         Me.Panel15.Controls.Add(Me.txtOutFromQouta)
         Me.Panel15.Controls.Add(Me.Label137)
@@ -4700,7 +4702,7 @@ Partial Class cfrmAddNew
         Me.lstShowGoods.ItemHeight = 19
         Me.lstShowGoods.Location = New System.Drawing.Point(196, 130)
         Me.lstShowGoods.Name = "lstShowGoods"
-        Me.lstShowGoods.Size = New System.Drawing.Size(323, 175)
+        Me.lstShowGoods.Size = New System.Drawing.Size(323, 137)
         Me.lstShowGoods.TabIndex = 60
         '
         'btnDeleteDailyQuota
@@ -4826,7 +4828,7 @@ Partial Class cfrmAddNew
         '
         Me.cboQGoodID.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(178, Byte))
         Me.cboQGoodID.FormattingEnabled = True
-        Me.cboQGoodID.Location = New System.Drawing.Point(20, 254)
+        Me.cboQGoodID.Location = New System.Drawing.Point(20, 199)
         Me.cboQGoodID.Name = "cboQGoodID"
         Me.cboQGoodID.Size = New System.Drawing.Size(35, 27)
         Me.cboQGoodID.TabIndex = 45
@@ -4837,7 +4839,7 @@ Partial Class cfrmAddNew
         Me.Label82.BackColor = System.Drawing.Color.Gainsboro
         Me.Label82.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label82.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold)
-        Me.Label82.Location = New System.Drawing.Point(61, 254)
+        Me.Label82.Location = New System.Drawing.Point(61, 199)
         Me.Label82.Name = "Label82"
         Me.Label82.Size = New System.Drawing.Size(34, 27)
         Me.Label82.TabIndex = 43
@@ -5780,24 +5782,24 @@ Partial Class cfrmAddNew
         'dgTransactionsQouta
         '
         Me.dgTransactionsQouta.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
-        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle5.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold)
-        DataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgTransactionsQouta.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle5
+        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle3.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold)
+        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgTransactionsQouta.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
         Me.dgTransactionsQouta.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgTransactionsQouta.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.TID, Me.TransID, Me.NetWhight, Me.DNoteID, Me.QoutaDate})
-        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle6.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold)
-        DataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgTransactionsQouta.DefaultCellStyle = DataGridViewCellStyle6
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle4.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold)
+        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgTransactionsQouta.DefaultCellStyle = DataGridViewCellStyle4
         Me.dgTransactionsQouta.Location = New System.Drawing.Point(5, 79)
         Me.dgTransactionsQouta.Name = "dgTransactionsQouta"
         Me.dgTransactionsQouta.RightToLeft = System.Windows.Forms.RightToLeft.Yes
@@ -7054,6 +7056,19 @@ Partial Class cfrmAddNew
         Me.Label168.Text = "From Emails"
         Me.Label168.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
+        'Label169
+        '
+        Me.Label169.BackColor = System.Drawing.Color.Gainsboro
+        Me.Label169.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.Label169.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label169.ForeColor = System.Drawing.Color.Red
+        Me.Label169.Location = New System.Drawing.Point(133, 270)
+        Me.Label169.Name = "Label169"
+        Me.Label169.Size = New System.Drawing.Size(406, 33)
+        Me.Label169.TabIndex = 79
+        Me.Label169.Text = "الكميات المتبقيه قبل تاريخ اليوم"
+        Me.Label169.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
         'cfrmAddNew
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -7713,4 +7728,5 @@ Partial Class cfrmAddNew
     Friend WithEvents Label167 As System.Windows.Forms.Label
     Friend WithEvents TextBox9 As System.Windows.Forms.TextBox
     Friend WithEvents Label168 As System.Windows.Forms.Label
+    Friend WithEvents Label169 As System.Windows.Forms.Label
 End Class

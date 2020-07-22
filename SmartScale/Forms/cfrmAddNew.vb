@@ -30,6 +30,7 @@ Public Class cfrmAddNew
     Private Sub cfrmAddNew_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         cboContDetGoodID.Text = ""
         ' when he entter the program for the first time enter directly to  User tab
+        Label169.Text = " الكميات المتبقيه قبل تاريخ اليوم " & Date.Now.Date.ToShortDateString()
         Dim UserCount As Integer
         UserCount = gAdo.CmdExecScalar("Select count (User_ID) from TblUser")
         If UserCount = 1 Then
@@ -811,8 +812,8 @@ NextSub:
 
                 gAdo.CtrlItemsLoad("CD.GoodID", "G.Good_Name", "tblContractDet CD Left Join tblGood G on(CD.GoodID=G.Good_ID) Left join tblContracts C on(CD.ContractID=C.ContractID) Left Join tblDebitNote DN on(C.ContractID=DN.ContractID) where Dn.DebitNoteID='" & cboDebiteNote.SelectedValue.ToString() & "'", lstShowGoods)
 
-                Dim Motalba As Decimal = gAdo.CmdExecScalar("set DateFormat dmy select isnull(DN.TotalQuantity,0) From tblDebitNote DN where DN.DebitNoteID=" & cboDebiteNote.SelectedValue.ToString())
-                Dim OQTY As String = gAdo.CmdExecScalar("set DateFormat dmy select isnull(SUM(T.Quantity),0) From tblTransQuota T join tblTransactions TA on(T.TransID=TA.Trans_ID) join tblDailyQuota DQ on(T.QuotaID=DQ.QuotaID) Join tblDebitNote DN on DQ.DebitNoteID=DN.DebitNoteID where convert(datetime,Out_Date,103)<'" & gMethods.GetShifName_And_SearchDateFT(True, dtpQDate.Value, dtpQDate.Value)(0) & "' and DN.DebitNoteID=" & cboDebiteNote.SelectedValue.ToString())
+                Dim Motalba As Decimal = gAdo.CmdExecScalar("set DateFormat dmy select isnull(DN.TotalQuantity-OutgoingQuantity,0) From tblDebitNote DN where DN.DebitNoteID=" & cboDebiteNote.SelectedValue.ToString())
+                Dim OQTY As String = gAdo.CmdExecScalar("set DateFormat dmy select isnull(SUM(T.Quantity),0) From tblTransQuota T join tblTransactions TA on(T.TransID=TA.Trans_ID) join tblDailyQuota DQ on(T.QuotaID=DQ.QuotaID) Join tblDebitNote DN on DQ.DebitNoteID=DN.DebitNoteID where convert(datetime,Out_Date,103)<'" & gMethods.GetShifName_And_SearchDate(True)(0) & "' and DN.DebitNoteID=" & cboDebiteNote.SelectedValue.ToString())
                 Dim OUTQ As Decimal = 0
                 OUTQ = Decimal.Parse(If(OQTY = "", "0", OQTY)) / 1000
                 Motalba = Motalba - OUTQ
@@ -3287,8 +3288,7 @@ NextSub:
 
     Private Sub dtgGoods_CellClick(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dtgGoods.CellClick
         Try
-            Dim ss As String
-            ss = dtgGoods.Rows(dtgGoods.CurrentCell.RowIndex).Cells(0).Value.ToString()
+     
             If Val(dtgGoods.RowCount) = 0 Then
                 Exit Sub
             End If
@@ -4507,8 +4507,6 @@ NextSub:
         Else
         End If
     End Sub
-
-
 
 
 End Class

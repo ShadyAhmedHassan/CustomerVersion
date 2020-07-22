@@ -1,1 +1,1 @@
-Data Source=.;Initial Catalog=SmartScaleDBTest;User ID=sa;Password=123
+Data Source=.\MSSQLSERVER2;Initial Catalog=SmartScaleDBTest;User ID=it;Password=123

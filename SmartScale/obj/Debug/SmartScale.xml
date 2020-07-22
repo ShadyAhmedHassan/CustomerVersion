@@ -26,9 +26,6 @@ SmartScale
 	<value></value>
 	<returns></returns>
 	<remarks></remarks>
-</member><member name="F:SmartScale.modAllForms.gContractO">
- Elsaman 11/12/2019 '''
-
 </member><member name="M:SmartScale.cfrmAddNew.cboQGoodID_SelectedIndexChanged(System.Object,System.EventArgs)">
  Elsaman 5/1/2020 '''
 
@@ -37,48 +34,6 @@ SmartScale
 
 </member><member name="M:SmartScale.cfrmAddNew.lstContractDet_SelectedValueChanged(System.Object,System.EventArgs)">
  lstContractDet '''
-
-</member><member name="P:SmartScale.cfrmMain.CurrentView">
-	<summary>
- Selects current user view (New Transaction or Transactions grid view)
- </summary>
-	<value></value>
-	<returns>Current Active User View</returns>
-	<remarks></remarks>
-</member><member name="M:SmartScale.cfrmMain.SwitchView">
-	<summary>
- Toggles current view from new transaction to Transactions view
- </summary>
-	<remarks></remarks>
-</member><member name="M:SmartScale.cfrmMain.ValidateEmptyControl(System.Object,System.String)">
-	<summary>
- Check a certain control (Textbox/Combobox) for empty user data entry then returns current state.
- </summary>
-	<param name="objControl">Control to validate</param>
-	<param name="strItemName">Missing item will be displayed for user validation message</param>
-	<returns>One of enmValidationResult results</returns>
-	<remarks></remarks>
-</member><member name="M:SmartScale.cfrmMain.CheckCtrlValues">
-	<summary>
- Automatically Check each control and validate its value against the value in database 
- </summary>
-	<remarks></remarks>
-</member><member name="M:SmartScale.cfrmMain.ClearlblWeight">
-	<summary>
- Loops through labels used to show the weight and clear it
- </summary>
-	<remarks></remarks>
-</member><member name="M:SmartScale.cfrmMain.chkPrintCompayName_MouseHover(System.Object,System.EventArgs)">
- Elsaman 8/12/2019 '''
-
-</member><member name="M:SmartScale.cfrmMain.chkPrintCompayName_MouseLeave(System.Object,System.EventArgs)">
- Elsaman 8/12/2019 '''
-
-</member><member name="M:SmartScale.cfrmMain.DisableControls(System.Int32)">
- Elsaman 9/12/2019 '''
-
-</member><member name="M:SmartScale.cfrmMain.EnabledControls">
- Elsaman 9/12/2019 '''
 
 </member><member name="M:SmartScale.ClsAdo.checkExist(System.String,System.String,System.Windows.Forms.ComboBox,System.String,System.Windows.Forms.Control)">
 	<summary>
@@ -123,6 +78,9 @@ SmartScale
  </summary>
 	<param name="IsNew">Parameter Evaluates True In Case Of New transaction</param>
 	<remarks></remarks>
+</member><member name="F:SmartScale.modAllForms.gContractO">
+ Elsaman 11/12/2019 '''
+
 </member><member name="P:SmartScale.frmReturns.CurrentView">
 	<summary>
  Selects current user view (New Transaction or Transactions grid view)
@@ -153,6 +111,48 @@ SmartScale
  Loops through labels used to show the weight and clear it
  </summary>
 	<remarks></remarks>
+</member><member name="P:SmartScale.cfrmMain.CurrentView">
+	<summary>
+ Selects current user view (New Transaction or Transactions grid view)
+ </summary>
+	<value></value>
+	<returns>Current Active User View</returns>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.SwitchView">
+	<summary>
+ Toggles current view from new transaction to Transactions view
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.ValidateEmptyControl(System.Object,System.String)">
+	<summary>
+ Check a certain control (Textbox/Combobox) for empty user data entry then returns current state.
+ </summary>
+	<param name="objControl">Control to validate</param>
+	<param name="strItemName">Missing item will be displayed for user validation message</param>
+	<returns>One of enmValidationResult results</returns>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.CheckCtrlValues">
+	<summary>
+ Automatically Check each control and validate its value against the value in database 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.ClearlblWeight">
+	<summary>
+ Loops through labels used to show the weight and clear it
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SmartScale.cfrmMain.chkPrintCompayName_MouseHover(System.Object,System.EventArgs)">
+ Elsaman 8/12/2019 '''
+
+</member><member name="M:SmartScale.cfrmMain.chkPrintCompayName_MouseLeave(System.Object,System.EventArgs)">
+ Elsaman 8/12/2019 '''
+
+</member><member name="M:SmartScale.cfrmMain.DisableControls(System.Int32)">
+ Elsaman 9/12/2019 '''
+
+</member><member name="M:SmartScale.cfrmMain.EnabledControls">
+ Elsaman 9/12/2019 '''
+
 </member>
 </members>
 </doc>

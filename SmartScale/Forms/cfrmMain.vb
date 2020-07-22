@@ -118,22 +118,27 @@ Public Class cfrmMain
             Else
 
 
+                Try
 
-                If serl.IsOpen Then
-                    ' Don't do any thing
-                Else
+                
 
-                    With serl
-                        .PortName = "COM1"
-                        .BaudRate = 9600
-                        .DataBits = 8
-                        .StopBits = StopBits.One
-                        .Parity = Parity.None
-                        '.Handshake = Handshake.None
-                    End With
-                    serl.Open()
-                End If
+                    If serl.IsOpen Then
+                        ' Don't do any thing
+                    Else
 
+                        With serl
+                            .PortName = "COM1"
+                            .BaudRate = 9600
+                            .DataBits = 8
+                            .StopBits = StopBits.One
+                            .Parity = Parity.None
+                            '.Handshake = Handshake.None
+                        End With
+                        serl.Open()
+                    End If
+                Catch ex As Exception
+
+                End Try
                 'pnlNewTransaction.BringToFront()
                 Dim visible As Integer
                 visible = gAdo.CmdExecScalar("select visible from tblvisible")
